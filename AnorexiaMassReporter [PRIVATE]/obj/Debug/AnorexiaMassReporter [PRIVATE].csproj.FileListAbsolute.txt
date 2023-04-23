@@ -1,0 +1,12 @@
+C:\Users\lun4r\OneDrive\Desktop\Projects\AnorexiaMassReporter [PRIVATE]\AnorexiaMassReporter [PRIVATE]\bin\Debug\AnorexiaMassReporter [PRIVATE].exe.config
+C:\Users\lun4r\OneDrive\Desktop\Projects\AnorexiaMassReporter [PRIVATE]\AnorexiaMassReporter [PRIVATE]\bin\Debug\AnorexiaMassReporter [PRIVATE].exe
+C:\Users\lun4r\OneDrive\Desktop\Projects\AnorexiaMassReporter [PRIVATE]\AnorexiaMassReporter [PRIVATE]\bin\Debug\AnorexiaMassReporter [PRIVATE].pdb
+C:\Users\lun4r\OneDrive\Desktop\Projects\AnorexiaMassReporter [PRIVATE]\AnorexiaMassReporter [PRIVATE]\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lun4r\OneDrive\Desktop\Projects\AnorexiaMassReporter [PRIVATE]\AnorexiaMassReporter [PRIVATE]\bin\Debug\Veylib.dll
+C:\Users\lun4r\OneDrive\Desktop\Projects\AnorexiaMassReporter [PRIVATE]\AnorexiaMassReporter [PRIVATE]\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lun4r\OneDrive\Desktop\Projects\AnorexiaMassReporter [PRIVATE]\AnorexiaMassReporter [PRIVATE]\obj\Debug\AnorexiaMassReporter [PRIVATE].csproj.AssemblyReference.cache
+C:\Users\lun4r\OneDrive\Desktop\Projects\AnorexiaMassReporter [PRIVATE]\AnorexiaMassReporter [PRIVATE]\obj\Debug\AnorexiaMassReporter [PRIVATE].csproj.SuggestedBindingRedirects.cache
+C:\Users\lun4r\OneDrive\Desktop\Projects\AnorexiaMassReporter [PRIVATE]\AnorexiaMassReporter [PRIVATE]\obj\Debug\AnorexiaMassReporter [PRIVATE].csproj.CoreCompileInputs.cache
+C:\Users\lun4r\OneDrive\Desktop\Projects\AnorexiaMassReporter [PRIVATE]\AnorexiaMassReporter [PRIVATE]\obj\Debug\AnorexiaMassReporter [PRIVATE].csproj.CopyComplete
+C:\Users\lun4r\OneDrive\Desktop\Projects\AnorexiaMassReporter [PRIVATE]\AnorexiaMassReporter [PRIVATE]\obj\Debug\AnorexiaMassReporter [PRIVATE].exe
+C:\Users\lun4r\OneDrive\Desktop\Projects\AnorexiaMassReporter [PRIVATE]\AnorexiaMassReporter [PRIVATE]\obj\Debug\AnorexiaMassReporter [PRIVATE].pdb
